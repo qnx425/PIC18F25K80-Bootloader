@@ -1,1 +1,4 @@
+*.mcp linguist-vendored
+*.mcw linguist-vendored
 *.asm linguist-language=Assembly
+*.inc linguist-language=Assembly
