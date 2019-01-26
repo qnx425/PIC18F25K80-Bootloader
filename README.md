@@ -1,6 +1,6 @@
 #### PIC Bootloader for ELM327SLCAN
 
-This bootloader was designed for wireless (bluetooth) firmware downloading to the [ELM327SLCAN](https://github.com/HACKMESEU/Bootloader-for-USBtin) device. It is based on [Microchip AN1310](https://www.microchip.com/wwwAppNotes/AppNotes.aspx?appnote=en546974).
+This bootloader was designed for wireless (bluetooth) firmware downloading to the [ELM327SLCAN](https://github.com/qnx425/ELM327SLCAN) device. It is based on [Microchip AN1310](https://www.microchip.com/wwwAppNotes/AppNotes.aspx?appnote=en546974).
 
 ##### Development cycle.
 
