@@ -13,6 +13,8 @@ Bootloader works on 38400 bps. This speed is set by the bluetooth module, which 
 
 See also [ELM327 hacking](https://area515.org/elm327-hacking/).
 
+![](images/0.jpg)
+
 ![](images/1.jpg)
 
 ![](images/2.jpg)
